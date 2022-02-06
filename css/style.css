@@ -1,0 +1,14 @@
+.bg-hilighter-color{
+    background-color: #fceae8;
+}
+#categories img{
+    width: 100px;
+}
+.button_color{
+    background-image: linear-gradient(to bottom, #ff2c80 0%, #ff4b92 100%);
+    background-color: #ff4b92;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+
+}
